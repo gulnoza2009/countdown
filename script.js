@@ -83,4 +83,4 @@ const interval = setInterval(() => {
       } else minut.textContent = "00";
     }
   }
-}, 1000);
+}, 10);
